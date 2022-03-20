@@ -1,8 +1,14 @@
+<img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/Pic%202.jpg"
+        align="right">
+
 # Personal Information
 ## Maritza Molina
 
 *Student Number:* S3956706
 *Email:*          S3956706@student.rmit.edu.au
+
+*Github Links:*   [Git Hub](https://github.com/MaritzaP83)    [Git Hub Repo](https://github.com/MaritzaP83/MaritzaP83.github.io)
 
 *Nationality:*    Australian
 
@@ -26,6 +32,12 @@ I have chosen RMIT to study and formalise my experience as I have worked with me
 
 ## Ideal Job 
 
+[SAP Jobs](https://jobs.sap.com/job/New-York-SAP-HXM-Solution-Architect-NY-10001/783405101/)
+
+  <img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/SAP1.png"
+        align="centre">
+
 My ideal job would be SAP Solution Architect. This is position is a niche a highly influential position within SAP as a company. A Solution Architect oversees global settings for the program, creating efficiencies and upgrade management. This position is specified to the HRIS systems which means any changes made would also need to maintain compliance within the payroll system. This appeals to me as I have extensive knowledge in these environments and would be the pinnacle of my working knowledge to hold an influential role on a global scale.   
 
 To be considered for this role, one would need over 10 years’ experience as a Solution Consultant and various implementation projects for a range of industries and their respective integration Systems. The ideal candidate would require a Bachelor of IT as well as completion of SAP acknowledged accreditations offered directly through their partner program.
@@ -36,17 +48,35 @@ I have over 10 years’ experience working with SAP and have assisted with one r
 
 *Myers- Briggs Test Results* 
 
+  <img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/Camp1.png"
+        align="centre">
+        
+   <img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/MB1.png"
+        align="centre">
+               
+        
+
 This test result is expected as I am known for these qualities in my current role working between departments. I consider myself an extrovert of sorts and intuitive of others around me and their needs. These are great skills to have in an environment where you are required to be flexible but can be detrimental when faced with making unpopular firm decisions. 
 I feel confident entering group environments, making introductions and suggestions. I like to gauge the people I work with and try and meet them and their level of participation and offer help when needed. This can also hinder me as I do find myself being a people pleaser and sometimes means I overcompensate to my own detriment. 
 When working in a team, I should be considerate of people in my team who are not as interactive as myself. I should also set boundaries for myself and play to strengths in knowledge and not over burden myself for the sake of being diplomatic. 
 
 *Online Learning Style Test*
 
+  <img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/OL%20Test.jpg"
+        align="centre">
+
 The Online Learning Style Test results were not a complete surprise to me as I’ve always known to learn best when listening at my own pace. I usually take my own notes down and review them by reading back to myself to hear if this makes sense to me. I enjoy studying with music playing in my headphones as this helps me to focus. 
 Others in my team will most likely have differing learning styles to mine where they may not take as many notes. I can assist by sharing my own notes and discussing their findings. 
 This is a good learning style to have when in a group setting where you can have dialogue back and forth. I like to speak to others and talk through the main points made to see if I captured the meaning. 
 
 *Open Source Psychometric Test*
+
+  <img src=
+"https://github.com/MaritzaP83/MaritzaP83.github.io/blob/main/Open%20Source%20.jpg"
+        align="centre">
 
 As per the previous two tests, these results do not surprise me as they mirror the 16 Personalities test. I scored highly in the agreeableness scale as well as the extroversion. This points to being highly optimistic and extroverted. While I don’t think of myself as so highly extroverted, I do agree I am an optimistic person. 
  As with the previous test, I have no issues being in team settings and voicing my opinions. I also encourage everyone to participate and try and motivate others to do so. I will be mindful of that this could also clash with others and be respectful of this. 
@@ -70,10 +100,11 @@ This solution would require a multi-platform approach to successfully capture al
 
 A project of this size would require a comprehensive website built to incorporate the large volumes of information needed. There would need to be a registered domain name that would differentiate it to the current Fairwork website, ensuring that the public know this is not a government site. This website would need to be compatible with Windows and MAC users and could be built using Wordpress. The accompanying app would need to be created for ease of use for both Apple and Android users and can be built using programs such as Appy pie and can be a conduit to the website to allow for memory saving. The plug-in component would need to be configured in consultation with existing Payroll software providers and their subsequent STP set up. This could be offered in inline with the current quarterly upgrade references. Limiting this plug-in reference to the test environment. 
 
-*skills Required*
+*Skills Required*
 
 This would need to be widely consulted and verified project as this is a source of truth for industry and employees. The project would require buy in for the different government agencies to share and store this information from the various sources. The website would require a team to build and maintain. Most importantly, there would need to be a strong legal and team required to ensure all the information published and updated is correct and being interpreted in an accurate manner. The strength of this project lies in the reliability of this being an accurate source of information, so this component would be the most involved and important. 
 
 *Outcome*
+
 The success of this project would restore confidence in Employees and Employers for their pay systems and Award interpretation. This would be an added component for Employers to ensure they are reducing their risk by having the most up to date information already attached to their pay systems. By having an up-to-date award interpreter, organisations can have confidence in their reporting and audits results would reflect the efficiencies. For individual employees, this tool would empower them to seek the information and apply their own circumstances. It would greatly reduce incidents of wage theft for vulnerable employees and return the power back to the individual. Although I have limited knowledge of how this could be executed, I believe the concept to be important and would benefit millions of people.  
-</font>
+
