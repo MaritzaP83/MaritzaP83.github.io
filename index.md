@@ -109,3 +109,4 @@ This would need to be widely consulted and verified project as this is a source 
 
 The success of this project would restore confidence in Employees and Employers for their pay systems and Award interpretation. This would be an added component for Employers to ensure they are reducing their risk by having the most up to date information already attached to their pay systems. By having an up-to-date award interpreter, organisations can have confidence in their reporting and audits results would reflect the efficiencies. For individual employees, this tool would empower them to seek the information and apply their own circumstances. It would greatly reduce incidents of wage theft for vulnerable employees and return the power back to the individual. Although I have limited knowledge of how this could be executed, I believe the concept to be important and would benefit millions of people.  
 
+
